@@ -1,0 +1,3 @@
+start:
+MOV A, 15
+MOV [A], 1
